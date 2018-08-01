@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "grunt": "^1.0.1",
-    "grunt-prettier": "^0.1.0"
+    "grunt": "^1.0.3",
+    "grunt-prettier": "^1.0.1"
   }
 }
